@@ -1,0 +1,9 @@
+c:\users\kele\documents\visual studio 2015\Projects\Zadaca_LV3\Zadaca_LV3\bin\Debug\Zadaca_LV3.exe.config
+c:\users\kele\documents\visual studio 2015\Projects\Zadaca_LV3\Zadaca_LV3\bin\Debug\Zadaca_LV3.exe
+c:\users\kele\documents\visual studio 2015\Projects\Zadaca_LV3\Zadaca_LV3\bin\Debug\Zadaca_LV3.pdb
+c:\users\kele\documents\visual studio 2015\Projects\Zadaca_LV3\Zadaca_LV3\obj\Debug\Zadaca_LV3.csprojResolveAssemblyReference.cache
+c:\users\kele\documents\visual studio 2015\Projects\Zadaca_LV3\Zadaca_LV3\obj\Debug\Zadaca_LV3.Form1.resources
+c:\users\kele\documents\visual studio 2015\Projects\Zadaca_LV3\Zadaca_LV3\obj\Debug\Zadaca_LV3.Properties.Resources.resources
+c:\users\kele\documents\visual studio 2015\Projects\Zadaca_LV3\Zadaca_LV3\obj\Debug\Zadaca_LV3.csproj.GenerateResource.Cache
+c:\users\kele\documents\visual studio 2015\Projects\Zadaca_LV3\Zadaca_LV3\obj\Debug\Zadaca_LV3.exe
+c:\users\kele\documents\visual studio 2015\Projects\Zadaca_LV3\Zadaca_LV3\obj\Debug\Zadaca_LV3.pdb
